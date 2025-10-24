@@ -1,0 +1,1408 @@
+customerID,Contract,PaymentMethod,ActualChurn,PredictedChurn
+0604-THJFP,Two year,Credit card (automatic),0,0
+4059-IIEBK,Month-to-month,Bank transfer (automatic),0,1
+2228-BZDEE,Two year,Mailed check,0,0
+2839-RFSQE,Month-to-month,Mailed check,1,0
+5360-LJCNJ,Two year,Bank transfer (automatic),0,0
+7752-XUSCI,Month-to-month,Electronic check,1,0
+8277-RVRSV,One year,Credit card (automatic),0,0
+3530-CRZSB,Month-to-month,Mailed check,0,0
+2845-HSJCY,Month-to-month,Electronic check,1,1
+0336-KXKFK,Two year,Credit card (automatic),0,0
+7044-YAACC,Month-to-month,Electronic check,0,0
+5396-IZEPB,Month-to-month,Credit card (automatic),0,0
+3317-VLGQT,Month-to-month,Electronic check,0,0
+6967-PEJLL,One year,Electronic check,0,0
+2091-MJTFX,Month-to-month,Credit card (automatic),1,0
+2034-GDRCN,Month-to-month,Electronic check,1,1
+8676-TRMJS,Month-to-month,Mailed check,1,1
+6298-QDFNH,Month-to-month,Electronic check,1,1
+0701-TJSEF,Month-to-month,Bank transfer (automatic),0,0
+5743-KHMNA,Two year,Bank transfer (automatic),0,0
+0613-WUXUM,Two year,Mailed check,0,0
+3137-LUPIX,Month-to-month,Mailed check,0,0
+3716-UVSPD,Month-to-month,Electronic check,0,0
+4800-CZMPC,One year,Credit card (automatic),1,0
+5144-PQCDZ,Month-to-month,Mailed check,0,0
+9286-DOJGF,Month-to-month,Bank transfer (automatic),1,0
+6258-NGCNG,Month-to-month,Mailed check,0,0
+1335-MXCSE,Two year,Credit card (automatic),0,0
+6322-HRPFA,Month-to-month,Credit card (automatic),0,0
+6646-QVXLR,One year,Electronic check,1,0
+6941-KXRRV,One year,Bank transfer (automatic),0,0
+3716-BDVDB,Month-to-month,Electronic check,1,1
+2465-BLLEU,Month-to-month,Mailed check,0,1
+1525-LNLOJ,Two year,Bank transfer (automatic),0,0
+0390-DCFDQ,Month-to-month,Mailed check,1,1
+0258-NOKBL,Month-to-month,Electronic check,0,0
+6303-KFWSL,One year,Electronic check,0,0
+1194-BHJYC,Two year,Mailed check,0,0
+5049-GLYVG,Month-to-month,Mailed check,1,0
+1685-VAYJF,Month-to-month,Credit card (automatic),0,0
+2348-KCJLT,One year,Mailed check,0,0
+6425-JWTDV,Two year,Mailed check,0,0
+3022-BEXHZ,Two year,Bank transfer (automatic),0,0
+0670-ANMUU,One year,Credit card (automatic),0,0
+6349-JDHQP,Two year,Credit card (automatic),0,0
+0961-ZWLVI,One year,Credit card (automatic),0,0
+9289-LBQVU,One year,Mailed check,0,0
+4759-PXTAN,One year,Electronic check,0,0
+6695-AMZUF,Two year,Credit card (automatic),0,0
+9114-AAFQH,One year,Electronic check,0,0
+9992-UJOEL,Month-to-month,Mailed check,0,1
+1776-SPBWV,One year,Bank transfer (automatic),0,0
+3692-JHONH,One year,Electronic check,0,0
+7495-OOKFY,Month-to-month,Credit card (automatic),1,1
+5982-PSMKW,Two year,Credit card (automatic),0,0
+3298-QEICA,Two year,Mailed check,0,0
+8757-TFHHJ,Month-to-month,Credit card (automatic),0,0
+5022-JNQEQ,Month-to-month,Electronic check,0,0
+2418-TPEUN,Two year,Credit card (automatic),0,0
+4229-CZMLL,Month-to-month,Electronic check,1,1
+0191-EQUUH,Two year,Bank transfer (automatic),0,0
+3099-OONVS,Month-to-month,Electronic check,0,0
+0491-KAPQG,Month-to-month,Electronic check,0,1
+1090-ESELR,Two year,Bank transfer (automatic),0,0
+2208-NKVVH,Two year,Mailed check,0,0
+9496-IVVRP,Month-to-month,Bank transfer (automatic),0,0
+5016-LIPDW,One year,Mailed check,0,0
+8204-TIFGJ,Month-to-month,Bank transfer (automatic),0,0
+7684-XSZIY,Two year,Bank transfer (automatic),0,0
+0440-QEXBZ,Month-to-month,Mailed check,0,0
+6285-FTQBF,Two year,Credit card (automatic),0,0
+3707-GNWHM,Month-to-month,Mailed check,1,1
+0019-GFNTW,Two year,Bank transfer (automatic),0,0
+8988-ECPJR,Month-to-month,Mailed check,1,0
+9397-TZSHA,Two year,Credit card (automatic),0,0
+1989-PRJHP,Month-to-month,Electronic check,1,0
+3587-PMCOY,One year,Electronic check,0,1
+8292-FRFZQ,One year,Bank transfer (automatic),0,0
+1775-KWJKQ,Two year,Credit card (automatic),0,0
+6137-MFAJN,Month-to-month,Electronic check,0,0
+1395-WSWXR,Two year,Mailed check,0,0
+9046-JBFWA,Month-to-month,Mailed check,0,0
+9871-ELEYA,Two year,Credit card (automatic),0,0
+6712-OAWRH,Month-to-month,Electronic check,1,0
+2361-UPSND,One year,Mailed check,0,0
+4817-KEQSP,Two year,Bank transfer (automatic),0,0
+2842-BCQGE,Month-to-month,Credit card (automatic),0,0
+4190-MFLUW,Month-to-month,Credit card (automatic),1,0
+1640-PLFMP,Month-to-month,Electronic check,0,1
+6635-CPNUN,Month-to-month,Credit card (automatic),0,0
+6620-HVDUJ,Month-to-month,Bank transfer (automatic),0,0
+4706-AXVKM,Month-to-month,Credit card (automatic),1,1
+5495-GPSRW,Two year,Mailed check,0,0
+6847-KJLTS,Month-to-month,Bank transfer (automatic),0,0
+1023-BQXZE,Two year,Bank transfer (automatic),0,0
+4806-DXQCE,Two year,Electronic check,0,0
+5360-XGYAZ,Two year,Bank transfer (automatic),0,0
+8631-WUXGY,Month-to-month,Electronic check,0,0
+3780-YVMFA,Month-to-month,Electronic check,0,0
+7971-HLVXI,Two year,Credit card (automatic),0,0
+9842-EFSYY,Month-to-month,Mailed check,0,0
+0277-BKSQP,Month-to-month,Electronic check,0,0
+9154-QDGTH,One year,Credit card (automatic),0,0
+1208-NBVFH,Month-to-month,Electronic check,0,0
+0866-QLSIR,One year,Mailed check,1,0
+9667-TKTVZ,Month-to-month,Mailed check,0,1
+0611-DFXKO,Month-to-month,Mailed check,1,0
+8040-MNRTF,Month-to-month,Mailed check,0,1
+8107-KNCIM,Month-to-month,Electronic check,0,1
+8938-UMKPI,Month-to-month,Electronic check,1,0
+0670-KDOMA,Month-to-month,Mailed check,0,1
+0428-IKYCP,Month-to-month,Bank transfer (automatic),0,0
+0506-YLVKJ,Two year,Mailed check,0,0
+3133-PZNSR,Two year,Credit card (automatic),0,0
+2335-GSODA,Two year,Mailed check,0,0
+0970-ETWGE,Month-to-month,Electronic check,1,0
+9576-SYUHJ,Month-to-month,Electronic check,0,0
+7606-BPHHN,Two year,Credit card (automatic),0,0
+3108-PCCGG,Two year,Credit card (automatic),0,0
+6022-UGGSO,Month-to-month,Electronic check,1,0
+3506-OVLKD,One year,Bank transfer (automatic),0,0
+7473-ZBDSN,Two year,Mailed check,0,0
+6766-HFKLA,Two year,Bank transfer (automatic),0,0
+9139-WQQDY,One year,Mailed check,1,0
+4846-WHAFZ,Month-to-month,Electronic check,1,1
+8896-BQTTI,Month-to-month,Mailed check,0,0
+3727-RJMEO,Month-to-month,Electronic check,1,1
+3889-VWBID,Two year,Bank transfer (automatic),0,0
+7688-AWMDX,Two year,Bank transfer (automatic),0,0
+6752-APNJL,Month-to-month,Mailed check,0,0
+1270-XKUCC,Two year,Mailed check,0,0
+1024-GUALD,Month-to-month,Electronic check,1,1
+6997-UVGOX,Two year,Bank transfer (automatic),0,0
+4317-VTEOA,Month-to-month,Electronic check,1,1
+2725-TTRIQ,Two year,Bank transfer (automatic),0,0
+0307-BCOPK,One year,Mailed check,0,0
+6372-RFVNS,Month-to-month,Electronic check,1,1
+4749-OJKQU,Month-to-month,Electronic check,0,1
+5575-TPIZQ,Month-to-month,Credit card (automatic),0,0
+7706-DZNKK,Month-to-month,Credit card (automatic),0,0
+8092-NLTGF,Two year,Bank transfer (automatic),0,0
+6295-OSINB,Two year,Electronic check,0,0
+1956-YIFGE,One year,Mailed check,0,0
+6463-MVYRY,Two year,Bank transfer (automatic),0,0
+4695-VADHF,Month-to-month,Electronic check,1,0
+5630-IXDXV,Month-to-month,Electronic check,0,1
+0813-TAXXS,Two year,Bank transfer (automatic),0,0
+4445-ZJNMU,Month-to-month,Credit card (automatic),0,1
+5356-KZCKT,Two year,Credit card (automatic),0,0
+4644-PIZRT,One year,Bank transfer (automatic),0,0
+8181-YHCMF,Two year,Credit card (automatic),0,0
+0742-MOABM,Month-to-month,Mailed check,1,0
+6362-QHAFM,One year,Electronic check,0,1
+3161-ONRWK,One year,Bank transfer (automatic),0,0
+0952-KMEEH,Month-to-month,Mailed check,1,0
+6047-SUHPR,One year,Electronic check,0,0
+4412-YLTKF,Month-to-month,Electronic check,1,0
+1227-UDMZR,Two year,Bank transfer (automatic),0,0
+1223-UNPKS,Two year,Mailed check,0,0
+7762-ONLJY,One year,Mailed check,0,0
+0430-IHCDJ,Month-to-month,Electronic check,0,1
+4967-WPNCF,Two year,Bank transfer (automatic),0,0
+3021-VLNRJ,One year,Credit card (automatic),0,0
+9103-TCIHJ,Month-to-month,Mailed check,1,0
+0835-JKADZ,Two year,Electronic check,0,0
+2346-DJQTB,Month-to-month,Electronic check,0,0
+3301-LSLWQ,Month-to-month,Electronic check,0,0
+5970-GHJAW,Two year,Credit card (automatic),0,0
+2834-JKOOW,One year,Mailed check,0,0
+2188-SXWVT,One year,Mailed check,0,0
+8421-WZOOW,Month-to-month,Credit card (automatic),0,0
+9968-FFVVH,One year,Bank transfer (automatic),0,0
+1391-UBDAR,Month-to-month,Electronic check,0,0
+0134-XWXCE,One year,Bank transfer (automatic),0,0
+7296-PIXQY,Month-to-month,Electronic check,0,1
+6047-YHPVI,Month-to-month,Electronic check,1,1
+0895-LMRSF,One year,Bank transfer (automatic),0,0
+0004-TLHLJ,Month-to-month,Electronic check,1,1
+2907-ILJBN,One year,Mailed check,0,0
+7306-YDSOI,Two year,Bank transfer (automatic),0,0
+4475-NVTLU,Two year,Electronic check,0,0
+9710-ZUSHQ,Month-to-month,Bank transfer (automatic),1,0
+6946-LMSQS,One year,Electronic check,1,0
+8601-QACRS,Month-to-month,Mailed check,1,1
+4231-LZUYM,Two year,Bank transfer (automatic),0,0
+8380-PEFPE,Month-to-month,Electronic check,1,1
+2867-UIMSS,Month-to-month,Electronic check,1,1
+9814-AOUDH,Two year,Credit card (automatic),0,0
+4032-RMHCI,One year,Credit card (automatic),0,0
+1452-KIOVK,Month-to-month,Credit card (automatic),0,0
+4365-MSDYN,Month-to-month,Bank transfer (automatic),0,0
+0383-CLDDA,Two year,Credit card (automatic),0,0
+1293-HHSHJ,One year,Mailed check,0,0
+9822-OAOVB,Month-to-month,Electronic check,0,1
+7249-WBIYX,Month-to-month,Electronic check,1,1
+6652-YFFJO,Month-to-month,Electronic check,0,0
+9128-CPXKI,Two year,Electronic check,0,0
+5127-BZENZ,One year,Bank transfer (automatic),0,0
+5924-SNGKP,One year,Credit card (automatic),0,0
+2919-HBCJO,Month-to-month,Bank transfer (automatic),1,1
+5622-UEJFI,Two year,Credit card (automatic),0,0
+2000-MPKCA,One year,Electronic check,0,0
+4830-FAXFM,Month-to-month,Credit card (automatic),0,0
+7629-WFGLW,One year,Electronic check,0,0
+6259-WJQLC,Month-to-month,Credit card (automatic),0,0
+4854-CIDCF,Month-to-month,Electronic check,0,1
+2074-GUHPQ,Month-to-month,Credit card (automatic),0,0
+7579-OOPEC,Month-to-month,Credit card (automatic),1,0
+8714-EUHJO,Month-to-month,Electronic check,1,0
+1707-HABPF,One year,Bank transfer (automatic),0,0
+2860-RANUS,Month-to-month,Credit card (automatic),1,1
+5150-ITWWB,Month-to-month,Electronic check,0,1
+4690-LLKUA,Month-to-month,Electronic check,1,0
+5716-LIBJC,One year,Credit card (automatic),0,0
+2485-ITVKB,Month-to-month,Electronic check,1,1
+1357-MVDOZ,Month-to-month,Bank transfer (automatic),0,0
+3926-YZVVX,One year,Bank transfer (automatic),0,0
+0668-OGMHD,Month-to-month,Electronic check,0,0
+7279-BUYWN,Month-to-month,Electronic check,1,0
+7338-ERIVA,One year,Bank transfer (automatic),0,0
+8049-WJCLQ,Month-to-month,Mailed check,0,0
+0388-EOPEX,Month-to-month,Electronic check,1,1
+3296-SILRA,Month-to-month,Mailed check,1,1
+8920-NAVAY,One year,Bank transfer (automatic),0,0
+1834-ABKHQ,One year,Bank transfer (automatic),0,0
+3043-TYBNO,Month-to-month,Mailed check,0,0
+2573-GYRUU,Month-to-month,Credit card (automatic),0,0
+0979-PHULV,Month-to-month,Credit card (automatic),1,0
+4918-FYJNT,Month-to-month,Electronic check,0,0
+3930-ZGWVE,Month-to-month,Mailed check,0,1
+5766-ZJYBB,Month-to-month,Mailed check,1,0
+0121-SNYRK,One year,Mailed check,0,0
+3174-AKMAS,Two year,Credit card (automatic),0,0
+1212-GLHMD,Month-to-month,Mailed check,0,0
+6741-EGCBI,Month-to-month,Credit card (automatic),0,0
+6248-TKCQV,Two year,Bank transfer (automatic),0,0
+9489-JMTTN,Two year,Credit card (automatic),0,0
+1568-LJSZU,Two year,Credit card (automatic),0,0
+5126-RCXYW,Two year,Credit card (automatic),0,0
+6961-MJKBO,Two year,Bank transfer (automatic),0,0
+9174-IHETN,Two year,Credit card (automatic),0,0
+4160-AMJTL,Month-to-month,Electronic check,1,0
+2257-BOVXD,Month-to-month,Credit card (automatic),0,0
+1550-LOAHA,Month-to-month,Bank transfer (automatic),1,0
+1972-XMUWV,Two year,Credit card (automatic),0,0
+2088-IEBAU,Two year,Electronic check,0,0
+0825-CPPQH,Two year,Credit card (automatic),0,0
+2070-FNEXE,Month-to-month,Bank transfer (automatic),1,0
+1731-TVIUK,Month-to-month,Electronic check,1,1
+1697-NVVGY,Month-to-month,Bank transfer (automatic),0,0
+6754-WKSHP,One year,Bank transfer (automatic),0,0
+7036-ZZKBD,Month-to-month,Credit card (automatic),0,0
+2203-GHNWN,Month-to-month,Mailed check,0,0
+8722-PRFDV,Two year,Credit card (automatic),0,0
+7527-QNRUS,Two year,Mailed check,0,0
+7861-UVUFT,Month-to-month,Electronic check,1,1
+3563-SVYLG,Two year,Credit card (automatic),0,0
+0431-APWVY,One year,Bank transfer (automatic),1,0
+1656-DRSMG,Month-to-month,Credit card (automatic),0,0
+2027-FECZV,Month-to-month,Electronic check,1,1
+6857-TKDJV,Two year,Bank transfer (automatic),0,0
+0841-NULXI,Month-to-month,Electronic check,1,1
+3891-PUQOD,Month-to-month,Electronic check,1,1
+1229-RCALF,One year,Electronic check,0,0
+2122-SZZZD,One year,Credit card (automatic),0,0
+2386-LAHRK,Month-to-month,Mailed check,1,1
+9112-WSNPU,Month-to-month,Electronic check,0,1
+9127-FHJBZ,Two year,Electronic check,0,0
+5301-GAUUY,Month-to-month,Bank transfer (automatic),1,0
+2139-FQHLM,Month-to-month,Mailed check,0,0
+8325-QRPZR,Month-to-month,Electronic check,0,1
+5129-JLPIS,Month-to-month,Electronic check,0,0
+3796-ENZGF,Two year,Mailed check,0,0
+6769-DYBQN,Month-to-month,Electronic check,1,0
+5312-TSZVC,One year,Mailed check,0,0
+1205-WNWPJ,Month-to-month,Mailed check,1,0
+6328-ZPBGN,Month-to-month,Bank transfer (automatic),1,1
+3392-EHMNK,Two year,Credit card (automatic),0,0
+9224-VTYID,Two year,Mailed check,0,0
+2843-CQMEG,Month-to-month,Mailed check,0,0
+4701-AHWMW,Month-to-month,Bank transfer (automatic),1,0
+1894-IGFSG,Month-to-month,Electronic check,1,0
+0665-XHDJU,Two year,Electronic check,0,0
+6174-NRBTZ,One year,Bank transfer (automatic),0,0
+7067-KSAZT,One year,Electronic check,1,0
+1140-UKVZG,Month-to-month,Mailed check,0,0
+4248-QPAVC,Month-to-month,Bank transfer (automatic),1,0
+6698-OXETB,Two year,Mailed check,0,0
+5574-NXZIU,Two year,Credit card (automatic),0,0
+0959-WHOKV,One year,Electronic check,0,0
+2458-EOMRE,Month-to-month,Bank transfer (automatic),0,0
+9933-QRGTX,Two year,Electronic check,0,0
+0690-SRQID,Month-to-month,Mailed check,0,0
+1150-WFARN,Two year,Credit card (automatic),1,0
+0363-QJVFX,Month-to-month,Credit card (automatic),1,0
+0744-GKNGE,Month-to-month,Bank transfer (automatic),0,0
+6685-GBWJZ,One year,Credit card (automatic),0,0
+5133-VRSAB,Month-to-month,Mailed check,0,0
+5702-KVQRD,Two year,Electronic check,0,0
+5057-RKGLH,Two year,Mailed check,0,0
+9378-FXTIZ,One year,Credit card (automatic),1,0
+6710-HSJRD,Month-to-month,Electronic check,0,0
+1074-WVEVG,One year,Mailed check,0,0
+0678-RLHVP,Two year,Electronic check,0,0
+1820-TQVEV,Month-to-month,Electronic check,1,1
+1635-FJFCC,Month-to-month,Credit card (automatic),0,0
+0123-CRBRT,Two year,Mailed check,0,0
+4905-JEFDW,One year,Electronic check,1,0
+7401-JIXNM,Two year,Credit card (automatic),0,0
+8990-YOZLV,Two year,Mailed check,0,0
+1092-GANHU,Month-to-month,Electronic check,1,0
+5207-PLSTK,Month-to-month,Mailed check,0,1
+2144-BFDSO,Month-to-month,Bank transfer (automatic),0,0
+9624-EGDEQ,Two year,Mailed check,0,0
+7157-SMCFK,Two year,Mailed check,0,0
+4174-LPGTI,One year,Bank transfer (automatic),1,0
+9391-DXGGG,One year,Credit card (automatic),0,0
+8807-ARQET,Month-to-month,Electronic check,0,0
+9644-KVCNC,One year,Bank transfer (automatic),0,0
+5736-YEJAX,Two year,Credit card (automatic),0,0
+0023-UYUPN,One year,Electronic check,0,0
+1915-OAKWD,One year,Bank transfer (automatic),0,0
+8033-VCZGH,One year,Electronic check,0,0
+1436-ZMJAN,Month-to-month,Credit card (automatic),0,0
+9507-EXLTT,Month-to-month,Bank transfer (automatic),1,1
+3966-HRMZA,Month-to-month,Mailed check,0,1
+9586-JGQKH,Two year,Bank transfer (automatic),0,0
+9453-PATOS,Two year,Mailed check,0,0
+8261-GWDBQ,Two year,Bank transfer (automatic),0,0
+4813-HQMGZ,Month-to-month,Electronic check,0,1
+2883-ILGWO,Month-to-month,Bank transfer (automatic),0,0
+5949-HGVJL,Month-to-month,Electronic check,0,0
+6754-LZUKA,Two year,Bank transfer (automatic),0,0
+6198-ZFIOJ,Month-to-month,Electronic check,0,1
+7409-KIUTL,Month-to-month,Electronic check,1,1
+4323-SADQS,Month-to-month,Electronic check,1,0
+2068-WWXQZ,Two year,Bank transfer (automatic),0,0
+1936-UAFEH,Two year,Credit card (automatic),0,0
+5236-PERKL,Two year,Bank transfer (automatic),1,0
+8189-HBVRW,Month-to-month,Electronic check,0,0
+1370-GGAWX,One year,Electronic check,0,0
+1200-TUZHR,Month-to-month,Electronic check,0,1
+4851-BQDNX,One year,Electronic check,0,0
+8319-QBEHW,One year,Bank transfer (automatic),0,0
+4250-WAROZ,Month-to-month,Electronic check,0,0
+7072-MBHEV,Month-to-month,Credit card (automatic),0,0
+8245-UMPYT,Month-to-month,Electronic check,1,1
+9522-BNTHX,Month-to-month,Electronic check,0,0
+9646-NMHXE,Two year,Mailed check,0,0
+1062-LHZOD,Month-to-month,Mailed check,1,1
+1035-IPQPU,Month-to-month,Electronic check,0,0
+8024-XNAFQ,Two year,Bank transfer (automatic),0,0
+7205-BAIAD,Two year,Bank transfer (automatic),0,0
+8083-YTZES,Month-to-month,Electronic check,1,1
+4919-IKATY,Month-to-month,Electronic check,1,0
+8975-SKGRX,Two year,Bank transfer (automatic),0,0
+4029-HPFVY,Month-to-month,Mailed check,0,0
+3519-ZKXGG,Month-to-month,Electronic check,1,1
+5214-CHIWJ,One year,Mailed check,0,0
+0936-NQLJU,Two year,Credit card (automatic),0,0
+8873-GLDMH,Month-to-month,Mailed check,0,1
+7952-OBOYL,Month-to-month,Mailed check,0,1
+5334-JLAXU,Month-to-month,Credit card (automatic),0,0
+7529-ZDFXI,Month-to-month,Electronic check,0,0
+4735-ASGMA,Month-to-month,Electronic check,1,1
+2338-BQEZT,Month-to-month,Credit card (automatic),0,0
+1493-AMTIE,Month-to-month,Bank transfer (automatic),1,1
+2676-SSLTO,Two year,Bank transfer (automatic),0,0
+5876-HZVZM,Month-to-month,Credit card (automatic),1,0
+8375-DKEBR,Month-to-month,Electronic check,1,1
+7776-QGYJC,Month-to-month,Bank transfer (automatic),0,0
+2866-IKBTM,Month-to-month,Mailed check,0,0
+0214-JHPFW,Two year,Bank transfer (automatic),0,0
+3334-CTHOL,Month-to-month,Bank transfer (automatic),1,0
+7470-MCQTK,Month-to-month,Bank transfer (automatic),1,0
+0016-QLJIS,Two year,Mailed check,0,0
+5956-YHHRX,Month-to-month,Electronic check,0,1
+3933-DQPWX,Two year,Credit card (automatic),0,0
+7750-EYXWZ,One year,Electronic check,0,0
+9040-KZVWO,One year,Bank transfer (automatic),0,0
+3677-IYRBF,Month-to-month,Electronic check,1,1
+4501-UYKBC,One year,Credit card (automatic),0,0
+0345-XMMUG,Two year,Credit card (automatic),0,0
+0310-MVLET,Month-to-month,Electronic check,1,0
+4521-YEEHE,Month-to-month,Electronic check,0,1
+6429-SHBCB,Month-to-month,Mailed check,0,0
+9283-LZQOH,Month-to-month,Credit card (automatic),1,1
+3372-CDXFJ,One year,Bank transfer (automatic),0,0
+7075-BNDVQ,Month-to-month,Mailed check,0,0
+4056-QHXHZ,Two year,Mailed check,0,0
+5351-QESIO,Month-to-month,Mailed check,0,0
+3374-LXDEV,Month-to-month,Electronic check,1,1
+1087-UDSIH,Month-to-month,Mailed check,1,0
+3916-NRPAP,Month-to-month,Credit card (automatic),0,0
+6969-MVBAI,Month-to-month,Electronic check,0,1
+6319-IEJWJ,Month-to-month,Electronic check,1,0
+7912-SYRQT,Month-to-month,Bank transfer (automatic),1,0
+5539-TMZLF,Month-to-month,Electronic check,1,1
+2985-FMWYF,Month-to-month,Electronic check,0,1
+9359-JANWS,Two year,Credit card (automatic),0,0
+3620-EHIMZ,Two year,Mailed check,0,0
+4026-SKKHW,Month-to-month,Mailed check,0,0
+8622-ZLFKO,Month-to-month,Electronic check,0,1
+3496-LFSZU,Month-to-month,Electronic check,0,1
+7398-LXGYX,Month-to-month,Credit card (automatic),0,0
+3452-ABWRL,Month-to-month,Credit card (automatic),0,1
+7351-MHQVU,Month-to-month,Credit card (automatic),0,0
+4060-LDNLU,Month-to-month,Electronic check,0,1
+4648-YPBTM,Two year,Bank transfer (automatic),0,0
+8660-BUETV,Month-to-month,Mailed check,0,0
+1345-GKDZZ,Month-to-month,Mailed check,0,0
+4112-LUEIZ,Month-to-month,Electronic check,1,1
+5419-KLXBN,Month-to-month,Bank transfer (automatic),1,0
+6233-HXJMX,Month-to-month,Credit card (automatic),0,0
+7398-SKNQZ,Month-to-month,Electronic check,0,1
+5712-PTIWW,Month-to-month,Electronic check,1,1
+2673-ZALNP,One year,Mailed check,0,0
+6212-ATMLK,Month-to-month,Electronic check,0,1
+9402-ROUMJ,One year,Bank transfer (automatic),0,0
+0256-LTHVJ,Month-to-month,Electronic check,1,0
+4785-QRJHC,One year,Bank transfer (automatic),1,0
+4999-IEZLT,One year,Credit card (automatic),0,0
+7868-BGSZA,One year,Electronic check,0,0
+4237-RLAQD,Month-to-month,Mailed check,1,0
+1171-TYKUR,Month-to-month,Electronic check,0,0
+6248-BSHKG,One year,Mailed check,0,0
+6016-LVTJQ,Month-to-month,Mailed check,0,0
+4667-OHGKG,Month-to-month,Mailed check,1,0
+7781-EWARA,One year,Electronic check,0,0
+5730-DBDSI,Two year,Bank transfer (automatic),0,0
+9692-TUSXH,Month-to-month,Electronic check,1,1
+0519-DRGTI,Month-to-month,Mailed check,0,0
+3551-GAEGL,One year,Bank transfer (automatic),0,0
+5442-BHQNG,Month-to-month,Electronic check,0,1
+5600-KTXFM,Month-to-month,Mailed check,0,1
+4445-KWOKW,One year,Bank transfer (automatic),0,0
+2959-MJHIC,Month-to-month,Electronic check,1,1
+4587-VVTOX,Month-to-month,Electronic check,1,1
+7105-MXJLL,One year,Mailed check,0,0
+1143-NMNQJ,Month-to-month,Electronic check,1,1
+6845-RGTYS,Month-to-month,Electronic check,1,0
+3521-HTQTV,Two year,Bank transfer (automatic),0,0
+3207-OYBWH,Month-to-month,Bank transfer (automatic),1,0
+2324-AALNO,One year,Bank transfer (automatic),0,0
+1222-LRYKO,Month-to-month,Mailed check,0,0
+0015-UOCOJ,Month-to-month,Electronic check,0,0
+7465-ZZRVX,Month-to-month,Electronic check,0,1
+2954-PIBKO,Two year,Credit card (automatic),0,0
+5006-MXVRN,Two year,Credit card (automatic),0,0
+8914-RBTSB,Month-to-month,Electronic check,1,0
+5445-PZWGX,One year,Electronic check,1,0
+8413-YNHNV,Two year,Mailed check,0,0
+3932-CMDTD,One year,Electronic check,1,0
+0301-KOBTQ,Two year,Bank transfer (automatic),0,0
+9565-DJPIB,Month-to-month,Mailed check,1,1
+9591-YVTEB,Month-to-month,Electronic check,0,0
+3063-QFSZL,Month-to-month,Electronic check,1,1
+6917-YACBP,Month-to-month,Electronic check,0,0
+2277-VWCNI,Month-to-month,Mailed check,0,1
+9894-QMIMJ,One year,Bank transfer (automatic),0,0
+8224-KDLKN,Two year,Bank transfer (automatic),0,0
+2995-YWTCD,Two year,Bank transfer (automatic),0,0
+8028-PNXHQ,Two year,Bank transfer (automatic),0,0
+4376-KFVRS,Two year,Credit card (automatic),0,0
+8258-GSTJK,Month-to-month,Electronic check,1,1
+6661-HBGWL,Month-to-month,Bank transfer (automatic),1,1
+1849-RJYIG,Month-to-month,Electronic check,0,0
+0886-QGENL,Month-to-month,Electronic check,1,0
+4415-IJZTP,Month-to-month,Electronic check,1,1
+5419-CONWX,Month-to-month,Credit card (automatic),1,1
+6124-ACRHJ,Month-to-month,Mailed check,0,0
+0376-YMCJC,Month-to-month,Electronic check,1,1
+9039-RBEEE,Month-to-month,Credit card (automatic),1,0
+9369-XFEHK,Month-to-month,Bank transfer (automatic),1,0
+6345-ULYRW,One year,Mailed check,1,0
+7180-PISOG,Month-to-month,Electronic check,1,1
+8069-RHUXK,Two year,Credit card (automatic),0,0
+5696-JVVQY,Two year,Credit card (automatic),0,0
+0895-LNKRC,One year,Mailed check,0,0
+2778-OCLGR,Month-to-month,Bank transfer (automatic),1,1
+5702-SKUOB,Month-to-month,Mailed check,0,0
+6260-XLACS,One year,Mailed check,0,0
+5820-PTRYM,One year,Credit card (automatic),0,0
+9251-AWQGT,Two year,Mailed check,0,0
+1716-LSAMB,Two year,Bank transfer (automatic),0,0
+5829-NVSQN,One year,Bank transfer (automatic),0,0
+5605-XNWEN,Two year,Bank transfer (automatic),0,0
+9986-BONCE,Month-to-month,Bank transfer (automatic),1,0
+8849-GYOKR,One year,Bank transfer (automatic),1,0
+7130-YXBRO,Month-to-month,Bank transfer (automatic),0,0
+2495-INZWQ,Month-to-month,Electronic check,1,1
+7351-KYHQH,Month-to-month,Electronic check,0,0
+1376-HHBDV,Month-to-month,Mailed check,0,0
+9465-RWMXL,Month-to-month,Electronic check,1,0
+7969-FFOWG,Two year,Mailed check,0,0
+2599-CZABP,One year,Electronic check,0,0
+1757-TCATG,One year,Bank transfer (automatic),0,0
+7181-BQYBV,Month-to-month,Electronic check,1,1
+7571-YXDAD,Month-to-month,Credit card (automatic),1,1
+3807-XHCJH,Month-to-month,Electronic check,0,0
+9318-NKNFC,Month-to-month,Mailed check,1,0
+9602-WCXPI,One year,Credit card (automatic),0,0
+9050-IKDZA,Month-to-month,Mailed check,0,1
+8443-ZRDBZ,Month-to-month,Electronic check,1,1
+8739-WWKDU,Month-to-month,Electronic check,1,1
+6896-SRVYQ,Month-to-month,Electronic check,0,0
+2023-VQFDL,Month-to-month,Electronic check,0,0
+6968-GMKPR,Month-to-month,Electronic check,0,0
+5555-RNPGT,Month-to-month,Credit card (automatic),0,0
+5955-EPOAZ,Month-to-month,Mailed check,0,0
+1448-PWKYE,Month-to-month,Electronic check,1,1
+3413-CSSTH,Month-to-month,Bank transfer (automatic),0,0
+7018-FPXHH,Two year,Bank transfer (automatic),0,0
+2798-NYLMZ,Two year,Credit card (automatic),0,0
+8194-PEEBY,One year,Mailed check,0,0
+6048-QBXKL,Month-to-month,Credit card (automatic),0,1
+5356-CSVSQ,Month-to-month,Electronic check,0,1
+3612-YVGSJ,Two year,Credit card (automatic),0,0
+9025-ZRPVR,Month-to-month,Mailed check,1,0
+6646-VRFOL,Month-to-month,Electronic check,1,0
+1036-GUDCL,Month-to-month,Credit card (automatic),0,0
+0020-INWCK,Two year,Credit card (automatic),0,0
+4824-GUCBY,Month-to-month,Electronic check,0,0
+7666-WKRON,Two year,Electronic check,1,0
+6608-QQLVK,Month-to-month,Electronic check,1,1
+4378-BZYFP,One year,Mailed check,0,0
+4633-MKHYU,Month-to-month,Mailed check,0,1
+8637-XJIVR,Month-to-month,Electronic check,1,0
+3778-FOAQW,One year,Mailed check,0,0
+2057-ZBLPD,Month-to-month,Electronic check,1,0
+0931-MHTEM,One year,Credit card (automatic),0,0
+1240-KNSEZ,Month-to-month,Mailed check,1,1
+1963-VAUKV,Month-to-month,Mailed check,1,0
+9227-YBAXE,Two year,Bank transfer (automatic),0,0
+5049-MUBWG,One year,Bank transfer (automatic),0,0
+6821-BUXUX,Month-to-month,Electronic check,1,1
+7594-LZNWR,Month-to-month,Credit card (automatic),0,0
+2509-TFPJU,Two year,Credit card (automatic),0,0
+3908-BLSYF,Month-to-month,Electronic check,1,1
+4873-ILOLJ,Month-to-month,Electronic check,1,0
+3594-IVHJZ,Month-to-month,Mailed check,0,0
+6218-KNUBD,Month-to-month,Electronic check,0,0
+5067-WJEUN,Two year,Bank transfer (automatic),0,0
+3780-DDGSE,Month-to-month,Electronic check,0,0
+3689-MOZGR,Month-to-month,Electronic check,0,0
+4223-BKEOR,One year,Mailed check,0,0
+0064-YIJGF,Month-to-month,Bank transfer (automatic),0,0
+0616-ATFGB,Month-to-month,Electronic check,1,1
+3967-KXAPS,Two year,Credit card (automatic),0,0
+5339-TJFEK,Month-to-month,Electronic check,0,0
+0365-BZUWY,Month-to-month,Electronic check,0,1
+1236-WFCDV,Month-to-month,Credit card (automatic),1,0
+0330-IVZHA,Month-to-month,Electronic check,1,1
+6910-HADCM,Month-to-month,Electronic check,1,1
+3094-JOJAI,Month-to-month,Mailed check,0,0
+3594-UVONA,One year,Credit card (automatic),1,0
+2138-VFAPZ,Two year,Mailed check,0,0
+4641-FROLU,Two year,Mailed check,0,0
+7018-WBJNK,Month-to-month,Credit card (automatic),0,1
+0083-PIVIK,One year,Electronic check,0,0
+1429-UYJSV,One year,Mailed check,0,0
+7115-IRDHS,Two year,Bank transfer (automatic),0,0
+3164-YAXFY,Month-to-month,Electronic check,0,0
+0916-KNFAJ,Two year,Mailed check,0,0
+3244-CQPHU,Two year,Bank transfer (automatic),0,0
+6445-TNRXS,Two year,Bank transfer (automatic),0,0
+3211-ILJTT,Month-to-month,Bank transfer (automatic),1,0
+3890-RTCMS,Month-to-month,Mailed check,0,0
+3724-BSCVH,One year,Mailed check,0,0
+1768-ZAIFU,Month-to-month,Electronic check,1,1
+7432-FFVAR,One year,Bank transfer (automatic),0,0
+6682-QJDGB,Month-to-month,Mailed check,1,0
+3635-QQRQD,Two year,Credit card (automatic),0,0
+7251-XFOIL,Month-to-month,Mailed check,0,0
+3926-CUQZX,Month-to-month,Bank transfer (automatic),1,1
+9972-VAFJJ,One year,Electronic check,0,0
+6542-LWGXJ,Month-to-month,Mailed check,0,0
+7343-EOBEU,Month-to-month,Mailed check,0,0
+5899-OUVKV,Month-to-month,Electronic check,0,0
+1074-AMIOH,Month-to-month,Bank transfer (automatic),0,0
+9152-AMKAK,Two year,Mailed check,0,0
+6833-JMZYP,Month-to-month,Credit card (automatic),0,1
+3398-GCPMU,Two year,Credit card (automatic),0,0
+3391-JSQEW,Month-to-month,Mailed check,0,0
+7239-HZZCX,Month-to-month,Mailed check,1,1
+2908-ZTPNF,Month-to-month,Bank transfer (automatic),0,0
+6979-ZNSFF,Month-to-month,Electronic check,1,1
+0018-NYROU,Month-to-month,Electronic check,0,0
+6797-UCJHZ,One year,Credit card (automatic),0,0
+2364-UFROM,One year,Electronic check,0,0
+0909-SDHNU,Month-to-month,Mailed check,0,0
+6861-XWTWQ,Month-to-month,Electronic check,1,1
+1139-WUOAH,Two year,Credit card (automatic),0,0
+7250-EQKIY,Month-to-month,Mailed check,1,1
+7754-IXRMC,Month-to-month,Mailed check,0,0
+6284-AHOOQ,Month-to-month,Bank transfer (automatic),1,0
+8821-XNHVZ,Month-to-month,Mailed check,1,1
+4546-FOKWR,Month-to-month,Credit card (automatic),0,1
+4979-HPRFL,Two year,Bank transfer (automatic),0,0
+3352-ALMCK,Month-to-month,Mailed check,0,1
+1045-LTCYT,Month-to-month,Credit card (automatic),0,0
+4489-SNOJF,Month-to-month,Electronic check,1,0
+4191-XOVOM,Month-to-month,Electronic check,0,0
+1848-LBZHY,Month-to-month,Bank transfer (automatic),0,0
+9092-GDZKO,Month-to-month,Credit card (automatic),0,0
+9761-XUJWD,Month-to-month,Bank transfer (automatic),0,0
+8059-UDZFY,Month-to-month,Bank transfer (automatic),0,0
+3378-AJRAO,One year,Electronic check,0,0
+7047-FWEYA,One year,Electronic check,0,0
+5268-DSMNQ,One year,Credit card (automatic),0,0
+9940-RHLFB,Month-to-month,Electronic check,1,0
+2606-RMDHZ,Month-to-month,Credit card (automatic),1,0
+0818-OCPZO,Month-to-month,Electronic check,1,0
+5120-ZBLAI,One year,Bank transfer (automatic),0,0
+4631-OACRM,Month-to-month,Electronic check,1,1
+8593-WHYHV,Month-to-month,Electronic check,1,1
+4234-XTNEA,Month-to-month,Electronic check,0,1
+3234-VKACU,Month-to-month,Electronic check,0,1
+3745-HRPHI,Two year,Bank transfer (automatic),0,0
+7554-AKDQF,Month-to-month,Mailed check,0,0
+3197-ARFOY,Month-to-month,Mailed check,0,0
+9121-PHQSR,Month-to-month,Credit card (automatic),0,1
+1587-FKLZB,Month-to-month,Credit card (automatic),1,0
+8058-DMYRU,Month-to-month,Electronic check,0,0
+1264-FUHCX,One year,Credit card (automatic),0,0
+4343-EJVQB,Month-to-month,Mailed check,0,0
+6713-OKOMC,Month-to-month,Mailed check,0,0
+3649-JPUGY,Two year,Bank transfer (automatic),0,0
+1004-NOZNR,One year,Credit card (automatic),0,0
+9364-YKUVW,Month-to-month,Mailed check,0,0
+6194-HBGQN,One year,Credit card (automatic),0,0
+3229-USWAR,One year,Bank transfer (automatic),0,0
+3658-KIBGF,Month-to-month,Electronic check,1,1
+9643-YBLUR,Month-to-month,Credit card (automatic),0,0
+1845-ZLLIG,Month-to-month,Mailed check,0,1
+0524-IAVZO,Month-to-month,Electronic check,1,1
+5692-FPTAH,Month-to-month,Mailed check,1,0
+6317-YPKDH,Month-to-month,Bank transfer (automatic),1,0
+9823-EALYC,Two year,Bank transfer (automatic),0,0
+9167-APMXZ,Month-to-month,Bank transfer (automatic),0,0
+8246-SHFGA,Month-to-month,Credit card (automatic),0,0
+3413-DHLPB,Month-to-month,Bank transfer (automatic),0,0
+2533-QVMSK,Two year,Electronic check,1,0
+8751-EDEKA,Month-to-month,Credit card (automatic),0,0
+2696-RZVZW,Two year,Credit card (automatic),0,0
+0484-JPBRU,Month-to-month,Bank transfer (automatic),0,0
+8849-AYPTR,Month-to-month,Electronic check,0,0
+8671-KKKOS,Month-to-month,Electronic check,0,0
+2824-MYYBN,Month-to-month,Electronic check,0,1
+1112-CUNAO,Month-to-month,Electronic check,1,1
+9221-OTIVJ,Month-to-month,Electronic check,1,1
+5364-EVNIB,Month-to-month,Electronic check,1,1
+3439-GVUSX,Month-to-month,Mailed check,0,1
+1052-QJIBV,Two year,Credit card (automatic),0,0
+4504-YOULA,Month-to-month,Credit card (automatic),0,0
+6292-TOSSS,Two year,Bank transfer (automatic),0,0
+9480-BQJEI,One year,Bank transfer (automatic),0,0
+1043-UXOVO,Two year,Credit card (automatic),0,0
+4660-IRIBM,Month-to-month,Mailed check,0,0
+9483-GCPWE,One year,Mailed check,0,0
+0835-DUUIQ,One year,Bank transfer (automatic),0,0
+4077-HWUYD,Two year,Bank transfer (automatic),0,0
+6848-HJTXY,Two year,Credit card (automatic),0,0
+4184-VODJZ,One year,Electronic check,0,0
+7663-RGWBC,Month-to-month,Mailed check,1,0
+0221-NAUXK,One year,Bank transfer (automatic),0,0
+8378-LKJAF,Month-to-month,Credit card (automatic),0,0
+6857-VWJDT,Month-to-month,Mailed check,1,1
+0114-IGABW,Two year,Bank transfer (automatic),0,0
+3177-LASXD,Month-to-month,Electronic check,1,1
+5928-QLDHB,Month-to-month,Electronic check,0,0
+2408-PSJVE,Month-to-month,Mailed check,0,0
+6661-EIPZC,Month-to-month,Credit card (automatic),0,0
+6388-TABGU,One year,Bank transfer (automatic),0,0
+0581-MDMPW,Month-to-month,Credit card (automatic),0,0
+2466-NEJOJ,Month-to-month,Credit card (automatic),0,0
+9971-ZWPBF,Month-to-month,Electronic check,0,0
+5650-YLIBA,Month-to-month,Electronic check,0,1
+3977-QCRSL,Month-to-month,Mailed check,0,0
+4626-OZDTJ,One year,Credit card (automatic),0,0
+4869-EPIUS,One year,Electronic check,0,0
+6164-HAQTX,Two year,Bank transfer (automatic),0,0
+7668-XCFYV,Month-to-month,Electronic check,0,0
+7209-JCUDS,Month-to-month,Electronic check,1,1
+3923-CSIHK,Month-to-month,Electronic check,1,0
+1816-FLZDK,Month-to-month,Mailed check,0,0
+0347-UBKUZ,Month-to-month,Mailed check,0,0
+6345-FZOQH,Two year,Mailed check,0,0
+9337-SRRNI,Two year,Credit card (automatic),0,0
+5458-CQJTA,Two year,Bank transfer (automatic),1,0
+4250-ZBWLV,One year,Electronic check,1,0
+7576-JMYWV,Month-to-month,Electronic check,0,0
+9298-WGMRW,Two year,Bank transfer (automatic),0,0
+4779-ZGICK,Two year,Mailed check,0,0
+6434-TTGJP,Two year,Credit card (automatic),0,0
+2079-FBMZK,Month-to-month,Mailed check,1,0
+7537-CBQUZ,Month-to-month,Bank transfer (automatic),0,0
+1265-ZFOSD,Two year,Mailed check,0,0
+2955-BJZHG,Month-to-month,Electronic check,1,1
+7273-TEFQD,Month-to-month,Electronic check,1,1
+4189-NAKJS,One year,Credit card (automatic),0,0
+2150-OEGBV,One year,Bank transfer (automatic),0,0
+3546-GHEAE,Two year,Mailed check,0,0
+3244-DCJWY,Month-to-month,Electronic check,1,1
+4072-IPYLT,Month-to-month,Credit card (automatic),0,0
+8739-QOTTN,Month-to-month,Mailed check,0,0
+4634-JLRJT,Month-to-month,Mailed check,0,1
+6036-TTFYU,Month-to-month,Mailed check,0,0
+5847-MXBEO,One year,Mailed check,0,0
+5371-VYLSX,Month-to-month,Electronic check,0,0
+2055-PDADH,Month-to-month,Electronic check,1,1
+7124-UGSUR,One year,Credit card (automatic),1,0
+3258-SANFR,Month-to-month,Credit card (automatic),0,0
+2761-XECQW,Month-to-month,Mailed check,0,0
+5297-MDOIR,One year,Credit card (automatic),0,0
+4713-LZDRV,Month-to-month,Electronic check,1,1
+3466-RITXD,Month-to-month,Credit card (automatic),0,0
+0187-QSXOE,Month-to-month,Electronic check,0,1
+3982-DQLUS,Month-to-month,Electronic check,0,0
+0422-UXFAP,One year,Electronic check,0,0
+9851-KIELU,Month-to-month,Electronic check,1,1
+4803-LBYPN,Month-to-month,Mailed check,0,0
+1156-ZFYDO,Month-to-month,Electronic check,0,1
+5950-AAAGJ,Month-to-month,Bank transfer (automatic),0,0
+4686-UXDML,Month-to-month,Credit card (automatic),0,0
+5469-CTCWN,One year,Electronic check,1,0
+9979-RGMZT,One year,Mailed check,0,1
+7623-TRNQN,Month-to-month,Mailed check,1,0
+5542-TBBWB,Month-to-month,Electronic check,0,1
+8535-SFUTN,Month-to-month,Electronic check,0,0
+9494-BDNNC,One year,Electronic check,0,0
+9450-TRJUU,Month-to-month,Electronic check,0,0
+5759-RCVCB,Month-to-month,Credit card (automatic),1,0
+2832-SCUCO,Month-to-month,Electronic check,0,0
+8887-IPQNC,Month-to-month,Mailed check,0,0
+8495-PRWFH,Month-to-month,Electronic check,0,0
+6537-QLGEX,Month-to-month,Electronic check,0,1
+2606-PKWJB,One year,Mailed check,0,0
+1272-ILHFG,One year,Mailed check,0,0
+8805-JNRAZ,Month-to-month,Mailed check,0,0
+7695-PKLCZ,Two year,Credit card (automatic),0,0
+7005-CCBKV,Month-to-month,Electronic check,1,1
+2305-MRGLV,Month-to-month,Bank transfer (automatic),0,0
+3705-PSNGL,One year,Electronic check,1,0
+2266-SJNAT,One year,Credit card (automatic),0,0
+5821-MMEIL,Two year,Bank transfer (automatic),0,0
+6518-LGAOV,Month-to-month,Electronic check,1,0
+7742-MYPGI,Month-to-month,Mailed check,0,0
+2061-VVFST,Month-to-month,Bank transfer (automatic),0,0
+6821-JPCDC,One year,Electronic check,0,0
+0436-TWFFZ,Two year,Mailed check,0,0
+8970-ANWXO,One year,Mailed check,0,0
+3453-RTHJQ,Month-to-month,Electronic check,0,1
+1069-QJOEE,One year,Electronic check,0,0
+0281-CNTZX,Two year,Bank transfer (automatic),0,0
+0058-EVZWM,Month-to-month,Bank transfer (automatic),0,0
+6008-NAIXK,One year,Electronic check,0,0
+3191-CSNMG,Month-to-month,Electronic check,0,0
+0909-SELIE,Two year,Bank transfer (automatic),0,0
+4237-CLSMM,Month-to-month,Mailed check,0,0
+5196-SGOAK,Month-to-month,Electronic check,1,1
+6543-CPZMK,Month-to-month,Electronic check,1,0
+8272-ONJLV,One year,Electronic check,0,0
+3313-QKNKB,One year,Electronic check,1,0
+3675-EQOZA,Month-to-month,Bank transfer (automatic),0,0
+7893-IXHRQ,Month-to-month,Electronic check,1,0
+3190-FZATL,Month-to-month,Mailed check,0,0
+2731-GJRDG,One year,Bank transfer (automatic),0,0
+0076-LVEPS,Month-to-month,Mailed check,0,0
+2252-NKNSI,Two year,Mailed check,0,0
+2897-DOVND,Month-to-month,Electronic check,0,0
+4465-VDKIQ,Month-to-month,Electronic check,0,0
+8652-YHIYU,One year,Credit card (automatic),0,0
+8016-NCFVO,Month-to-month,Electronic check,0,0
+8626-PTQGE,Two year,Bank transfer (automatic),0,0
+9685-WKZGT,Month-to-month,Electronic check,1,1
+7502-BNYGS,Month-to-month,Credit card (automatic),0,0
+1619-YWUBB,Two year,Credit card (automatic),0,0
+0851-DFJKB,Month-to-month,Electronic check,0,0
+7009-PCARS,One year,Bank transfer (automatic),0,0
+9258-CNWAC,Two year,Credit card (automatic),0,0
+0106-GHRQR,Month-to-month,Bank transfer (automatic),0,0
+2984-RGEYA,Two year,Bank transfer (automatic),0,0
+0513-RBGPE,Two year,Credit card (automatic),0,0
+9122-UMROB,Month-to-month,Mailed check,0,0
+1265-HVPZB,One year,Credit card (automatic),0,0
+2604-IJPDU,Month-to-month,Electronic check,0,0
+8879-XUAHX,Two year,Electronic check,0,0
+0975-UYDTX,One year,Credit card (automatic),0,0
+5281-BUZGT,Month-to-month,Electronic check,1,0
+8314-HTWVE,Two year,Mailed check,0,0
+1038-RQOST,Month-to-month,Mailed check,0,0
+5889-JTMUL,Month-to-month,Electronic check,1,0
+9747-DDZOS,Month-to-month,Bank transfer (automatic),1,1
+2748-MYRVK,One year,Bank transfer (automatic),1,0
+7654-YWJUF,One year,Bank transfer (automatic),0,0
+6823-SIDFQ,One year,Credit card (automatic),0,0
+7463-IFMQU,Two year,Bank transfer (automatic),0,0
+1658-XUHBX,Month-to-month,Credit card (automatic),0,0
+8993-PHFWD,Month-to-month,Electronic check,1,0
+2700-LUEVA,Month-to-month,Credit card (automatic),0,0
+1965-DDBWU,Month-to-month,Credit card (automatic),1,0
+1768-HNVGJ,Month-to-month,Electronic check,0,0
+3858-XHYJO,One year,Bank transfer (automatic),0,0
+2284-VFLKH,One year,Credit card (automatic),0,0
+2609-IAICY,Month-to-month,Electronic check,1,1
+8930-XOTDP,Month-to-month,Mailed check,0,0
+2434-EEVDB,Two year,Credit card (automatic),0,0
+4973-MGTON,Two year,Credit card (automatic),0,0
+6227-HWPWX,Month-to-month,Bank transfer (automatic),1,0
+1541-ETJZO,Month-to-month,Mailed check,1,0
+3682-YEUWS,Month-to-month,Mailed check,0,0
+6953-PBDIN,Two year,Bank transfer (automatic),0,0
+6332-FBZRI,One year,Credit card (automatic),0,0
+0754-EEBDC,Two year,Mailed check,0,0
+2535-PBCGC,Two year,Bank transfer (automatic),0,0
+5167-ZFFMM,Month-to-month,Credit card (automatic),1,1
+2659-VXMWZ,One year,Electronic check,1,0
+0506-LVNGN,Month-to-month,Credit card (automatic),1,1
+0323-XWWTN,Two year,Mailed check,0,0
+3679-XASPY,Month-to-month,Electronic check,0,0
+4092-OFQZS,One year,Mailed check,0,0
+3227-WLKLI,Two year,Bank transfer (automatic),0,0
+0447-BEMNG,Month-to-month,Bank transfer (automatic),1,0
+5968-HYJRZ,Two year,Mailed check,0,0
+3331-HQDTW,Month-to-month,Mailed check,1,0
+4102-HLENU,Two year,Mailed check,0,0
+0946-FKYTX,One year,Mailed check,0,0
+8869-LIHMK,Two year,Bank transfer (automatic),0,0
+1853-ARAAQ,Month-to-month,Credit card (automatic),0,0
+2159-TURXX,Month-to-month,Credit card (automatic),0,0
+6270-OMFIW,One year,Electronic check,1,0
+1230-QAJDW,Month-to-month,Mailed check,0,0
+0723-VSOBE,One year,Electronic check,0,0
+2585-KTFRE,Month-to-month,Bank transfer (automatic),0,0
+7130-VTEWQ,Month-to-month,Electronic check,1,1
+8406-LNMHF,One year,Credit card (automatic),0,0
+7410-KTVFV,Month-to-month,Mailed check,1,0
+7074-STDCN,Month-to-month,Electronic check,0,0
+6980-IMXXE,Two year,Bank transfer (automatic),0,0
+0486-HECZI,Month-to-month,Electronic check,1,0
+7569-NMZYQ,Two year,Bank transfer (automatic),0,0
+4819-HJPIW,Month-to-month,Mailed check,0,0
+8309-PPCED,Two year,Bank transfer (automatic),0,0
+7312-XSBAT,Month-to-month,Electronic check,0,0
+6598-RFFVI,One year,Credit card (automatic),1,0
+9945-PSVIP,Two year,Mailed check,0,0
+9531-NSBMR,One year,Bank transfer (automatic),0,0
+9796-MVYXX,Two year,Mailed check,0,0
+9512-UIBFX,Month-to-month,Mailed check,1,0
+1657-DYMBM,Two year,Credit card (automatic),0,0
+5204-QZXPU,Month-to-month,Electronic check,1,1
+9348-ROUAI,Two year,Credit card (automatic),0,0
+5288-AHOUP,Month-to-month,Electronic check,0,1
+4724-WXVWF,Month-to-month,Electronic check,0,0
+0222-CNVPT,Month-to-month,Credit card (automatic),0,0
+5447-VYTKW,Month-to-month,Mailed check,0,0
+9208-OLGAQ,Month-to-month,Electronic check,0,0
+6770-XUAGN,Month-to-month,Electronic check,1,0
+7801-KICAO,Month-to-month,Electronic check,0,0
+8929-KSWIH,Two year,Bank transfer (automatic),0,0
+6599-GZWCM,One year,Mailed check,0,0
+2952-QAYZF,Month-to-month,Electronic check,1,1
+2737-YNGYW,Month-to-month,Electronic check,1,1
+1929-ZCBHE,One year,Electronic check,0,0
+1166-PQLGG,Two year,Bank transfer (automatic),0,0
+2650-GYRYL,One year,Bank transfer (automatic),0,0
+5627-TVBPP,One year,Credit card (automatic),0,0
+7445-WMRBW,One year,Bank transfer (automatic),0,0
+3223-DWFIO,Month-to-month,Electronic check,0,1
+6704-UTUKK,Month-to-month,Electronic check,0,0
+8397-MVTAZ,Month-to-month,Electronic check,1,0
+8882-TLVRW,Two year,Mailed check,0,0
+8409-WQJUX,One year,Electronic check,0,0
+8218-FFJDS,Two year,Bank transfer (automatic),0,0
+3769-MHZNV,Two year,Mailed check,0,0
+3301-VKTGC,One year,Bank transfer (automatic),0,0
+7242-EDTYC,Two year,Bank transfer (automatic),0,0
+2817-LVCPP,Two year,Credit card (automatic),0,0
+3460-TJBWI,Two year,Mailed check,0,0
+0377-JBKKT,Month-to-month,Mailed check,0,0
+8915-NNTRC,Two year,Credit card (automatic),0,0
+6856-RAURS,Month-to-month,Mailed check,0,1
+0487-CRLZF,Two year,Bank transfer (automatic),0,0
+3807-BPOMJ,One year,Electronic check,0,0
+3006-XIMLN,Month-to-month,Bank transfer (automatic),1,1
+3750-CKVKH,Month-to-month,Electronic check,1,1
+2391-SOORI,Month-to-month,Electronic check,1,0
+6338-AVWCY,Month-to-month,Mailed check,1,1
+3237-AJGEH,Month-to-month,Mailed check,1,0
+8695-ARGXZ,Month-to-month,Electronic check,0,1
+6559-RAKOZ,One year,Electronic check,0,0
+1867-BDVFH,Month-to-month,Electronic check,1,1
+3597-YASZG,Two year,Bank transfer (automatic),0,0
+6483-OATDN,Month-to-month,Credit card (automatic),0,0
+7531-GQHME,Month-to-month,Credit card (automatic),0,0
+8840-DQLGN,Month-to-month,Bank transfer (automatic),1,0
+6583-SZVGP,Two year,Bank transfer (automatic),0,0
+8182-PNAGI,Month-to-month,Bank transfer (automatic),1,0
+0315-LVCRK,Month-to-month,Electronic check,0,0
+1853-UDXBW,Month-to-month,Electronic check,1,1
+2930-UOTMB,Month-to-month,Credit card (automatic),1,0
+6023-YEBUP,Month-to-month,Electronic check,1,1
+2995-UPRYS,One year,Credit card (automatic),1,0
+7520-HQWJU,Month-to-month,Bank transfer (automatic),0,0
+0691-NIKRI,One year,Credit card (automatic),0,0
+3665-JATSN,Month-to-month,Electronic check,0,0
+8620-RJPZN,Month-to-month,Electronic check,0,0
+6993-YCOBK,Two year,Electronic check,0,0
+8922-NPKBJ,Two year,Mailed check,0,0
+4942-VZZOM,One year,Credit card (automatic),0,0
+4701-LKOZD,Two year,Credit card (automatic),0,0
+7621-VPNET,Month-to-month,Credit card (automatic),0,0
+1345-ZUKID,One year,Mailed check,0,0
+7839-NUIAA,Month-to-month,Electronic check,0,0
+2758-RNWXS,One year,Electronic check,0,0
+8280-MQRQN,Month-to-month,Mailed check,1,1
+5813-UECBU,Month-to-month,Credit card (automatic),1,0
+6139-ZZRBQ,Two year,Bank transfer (automatic),0,0
+6972-SNKKW,Month-to-month,Mailed check,0,0
+8433-WPJTV,One year,Bank transfer (automatic),0,0
+7924-GJZFI,Month-to-month,Electronic check,0,0
+4674-HGNUA,Two year,Credit card (automatic),0,0
+5380-WJKOV,Month-to-month,Electronic check,1,1
+8111-RKSPX,Month-to-month,Bank transfer (automatic),1,1
+6319-QSUSR,Month-to-month,Credit card (automatic),0,0
+1722-LDZJS,One year,Credit card (automatic),0,0
+9279-CJEOJ,Month-to-month,Bank transfer (automatic),0,1
+3768-NLUBH,Month-to-month,Electronic check,1,0
+2674-MIAHT,Month-to-month,Mailed check,0,1
+4452-QIIEB,Month-to-month,Mailed check,0,0
+6061-GWWAV,One year,Mailed check,0,0
+8393-DLHGA,Month-to-month,Electronic check,1,0
+4678-DVQEO,Month-to-month,Electronic check,1,1
+4709-LKHYG,One year,Electronic check,0,0
+4423-JWZJN,One year,Credit card (automatic),0,0
+9209-NWPGU,One year,Electronic check,0,0
+7252-NTGSS,Month-to-month,Mailed check,0,0
+2599-CIPQE,Two year,Credit card (automatic),0,0
+2987-BJXIK,Two year,Mailed check,0,0
+5562-YJQGT,Month-to-month,Credit card (automatic),0,0
+0923-PNFUB,Month-to-month,Electronic check,1,0
+3077-RSNTJ,Month-to-month,Mailed check,0,0
+5828-AVIPD,One year,Electronic check,1,1
+6137-NICCO,Month-to-month,Mailed check,0,1
+8430-TWCBX,One year,Credit card (automatic),0,0
+0327-WFZSY,One year,Electronic check,0,0
+3096-WPXBT,One year,Credit card (automatic),0,0
+9895-VFOXH,Month-to-month,Mailed check,0,1
+3363-EWLGO,Month-to-month,Mailed check,0,0
+3594-KADLU,Month-to-month,Mailed check,0,0
+0397-ZXWQF,Two year,Bank transfer (automatic),0,0
+7524-VRLPL,Two year,Credit card (automatic),0,0
+8096-LOIST,Month-to-month,Electronic check,0,0
+2272-JKMSI,One year,Electronic check,0,0
+0928-JMXNP,Month-to-month,Electronic check,0,1
+9274-UARKJ,Month-to-month,Bank transfer (automatic),0,1
+1485-YDHMM,Month-to-month,Bank transfer (automatic),0,0
+4211-MMAZN,Month-to-month,Mailed check,1,0
+4706-DGAHW,Month-to-month,Electronic check,0,1
+5472-CVMDX,Two year,Mailed check,0,0
+4464-JCOLN,One year,Mailed check,1,0
+1545-JFUML,Two year,Electronic check,0,0
+9391-TTOYH,Month-to-month,Mailed check,0,0
+0603-TPMIB,Two year,Mailed check,0,0
+9367-TCUYN,Month-to-month,Mailed check,0,0
+4075-JFPGR,One year,Electronic check,0,0
+0412-UCCNP,Two year,Electronic check,0,0
+2519-LBNQL,One year,Electronic check,0,0
+1809-DMJHQ,Month-to-month,Mailed check,1,0
+2322-VCZHZ,Month-to-month,Electronic check,0,0
+3058-WQDRE,Month-to-month,Bank transfer (automatic),0,0
+8166-ZZTFS,Two year,Bank transfer (automatic),1,0
+3126-WQMGH,Month-to-month,Credit card (automatic),0,0
+4892-VLANZ,Month-to-month,Mailed check,1,1
+9576-ANLXO,Month-to-month,Bank transfer (automatic),1,0
+9975-GPKZU,Two year,Credit card (automatic),0,0
+9194-GFVOI,Two year,Credit card (automatic),0,0
+1113-IUJYX,One year,Mailed check,1,0
+8711-LOBKY,Two year,Mailed check,0,0
+3858-VOBET,Month-to-month,Electronic check,1,1
+9030-QGZNL,Two year,Mailed check,0,0
+0628-CNQRM,One year,Bank transfer (automatic),1,0
+1735-XMJVH,Month-to-month,Mailed check,0,0
+9057-SIHCH,Month-to-month,Electronic check,1,1
+7073-QETQY,One year,Electronic check,0,0
+7722-VJRQD,Two year,Bank transfer (automatic),0,0
+6158-HDPXZ,Month-to-month,Mailed check,0,1
+3722-WPXTK,Month-to-month,Electronic check,1,1
+6164-HXUGH,Month-to-month,Mailed check,0,0
+1302-TPUBN,Two year,Bank transfer (automatic),0,0
+9592-ERDKV,One year,Mailed check,0,0
+8445-DNBAE,Month-to-month,Electronic check,0,0
+4547-LYTDD,Month-to-month,Electronic check,1,0
+8221-HVAYI,Two year,Credit card (automatic),0,0
+5176-OLSKT,Two year,Bank transfer (automatic),0,0
+6048-UWKAL,Two year,Credit card (automatic),0,0
+7617-EYGLW,Month-to-month,Electronic check,0,0
+0685-MLYYM,Month-to-month,Electronic check,1,1
+6777-TGHTM,One year,Credit card (automatic),1,0
+4011-ARPHK,Month-to-month,Mailed check,0,0
+8495-LJDFO,Month-to-month,Bank transfer (automatic),0,0
+2961-VNFKL,Two year,Credit card (automatic),0,0
+4531-AUZNK,One year,Mailed check,0,0
+6711-VTNRE,Month-to-month,Electronic check,1,0
+8097-VBQTZ,Month-to-month,Mailed check,0,0
+0732-OCQOC,Two year,Bank transfer (automatic),0,0
+1471-GIQKQ,Month-to-month,Electronic check,0,0
+1355-KUSBG,Month-to-month,Electronic check,0,0
+3325-FUYCG,One year,Electronic check,1,0
+9107-UKCKY,One year,Electronic check,0,0
+0480-KYJVA,Two year,Credit card (automatic),0,0
+1952-DVVSW,One year,Mailed check,0,0
+7159-FVYPK,Month-to-month,Bank transfer (automatic),0,0
+5906-CVLHP,One year,Credit card (automatic),1,0
+9648-BCHKM,Two year,Credit card (automatic),0,0
+4039-PIMHX,Two year,Mailed check,0,0
+6500-JVEGC,One year,Bank transfer (automatic),0,0
+4118-CEVPF,One year,Bank transfer (automatic),0,0
+9227-LUNBG,Month-to-month,Electronic check,1,0
+5148-ORICT,Two year,Mailed check,0,0
+2925-VDZHY,Two year,Credit card (automatic),0,0
+9762-YAQAA,One year,Credit card (automatic),0,0
+1666-JXLKU,Month-to-month,Electronic check,0,1
+2263-SFSQZ,Two year,Mailed check,0,0
+7471-MQPOS,One year,Bank transfer (automatic),0,0
+4419-UJMUS,Two year,Electronic check,0,0
+5524-KHNJP,One year,Credit card (automatic),0,0
+4727-MCYZG,Month-to-month,Mailed check,0,1
+3877-JRJIP,Month-to-month,Electronic check,1,1
+4329-YPDDQ,Month-to-month,Bank transfer (automatic),0,0
+6680-WKXRZ,Month-to-month,Bank transfer (automatic),1,1
+9867-XOBQA,Two year,Mailed check,0,0
+0906-QVPMS,Two year,Bank transfer (automatic),0,0
+9611-CTWIH,Month-to-month,Electronic check,1,1
+0295-QVKPB,Month-to-month,Credit card (automatic),0,0
+4632-XJMEX,One year,Credit card (automatic),0,0
+0655-RBDUG,Month-to-month,Bank transfer (automatic),1,1
+1247-QBVSH,Month-to-month,Mailed check,0,0
+2369-FEVNO,Month-to-month,Mailed check,0,0
+5832-EXGTT,Month-to-month,Mailed check,0,0
+2829-HYVZP,One year,Mailed check,0,0
+2096-XOTMO,Month-to-month,Mailed check,0,0
+9767-FFLEM,Month-to-month,Credit card (automatic),0,0
+0969-RGKCU,One year,Credit card (automatic),0,0
+2025-JKFWI,Month-to-month,Mailed check,1,1
+8212-DJRCH,Month-to-month,Mailed check,0,1
+4742-TXUEX,Two year,Bank transfer (automatic),0,0
+3978-YNKDD,Two year,Credit card (automatic),0,0
+9089-UOWJG,Month-to-month,Credit card (automatic),0,0
+5271-YNWVR,Two year,Electronic check,1,0
+0409-WTMPL,One year,Credit card (automatic),0,0
+8042-RNLKO,One year,Bank transfer (automatic),0,0
+6578-KRMAW,Month-to-month,Credit card (automatic),0,0
+4282-MSACW,One year,Credit card (automatic),0,1
+8053-WWDRO,Month-to-month,Bank transfer (automatic),1,0
+3373-YZZYM,Month-to-month,Mailed check,0,0
+5222-IMUKT,Month-to-month,Electronic check,0,0
+5158-RIVOP,Two year,Credit card (automatic),0,0
+3884-UEBXB,Two year,Bank transfer (automatic),0,0
+8023-QHAIO,Month-to-month,Bank transfer (automatic),0,0
+5698-BQJOH,Month-to-month,Electronic check,1,1
+6870-ZWMNX,Two year,Credit card (automatic),0,0
+4785-FCIFB,Two year,Mailed check,0,0
+3672-YITQD,Month-to-month,Electronic check,1,1
+0447-RXSGD,Month-to-month,Bank transfer (automatic),0,1
+4086-WITJG,Two year,Credit card (automatic),0,0
+7872-BAAZR,One year,Bank transfer (automatic),0,0
+3589-PPVKW,Month-to-month,Mailed check,0,1
+8720-RQSBJ,Month-to-month,Electronic check,0,0
+7551-DACSP,Month-to-month,Mailed check,1,0
+7854-EKTJL,Month-to-month,Electronic check,1,0
+5373-SFODM,Month-to-month,Credit card (automatic),1,1
+2812-SFXMJ,Month-to-month,Mailed check,0,0
+3374-PZLXD,Month-to-month,Mailed check,0,0
+9860-LISIZ,Month-to-month,Mailed check,0,0
+1982-FEBTD,Two year,Credit card (automatic),0,0
+9402-ORRAH,Month-to-month,Electronic check,0,1
+5014-WUQMG,One year,Electronic check,0,0
+7789-CRUVC,Month-to-month,Credit card (automatic),0,0
+1069-XAIEM,Month-to-month,Electronic check,1,1
+9953-ZMKSM,Two year,Mailed check,0,0
+8617-ENBDS,Month-to-month,Credit card (automatic),0,0
+7611-YKYTC,Month-to-month,Bank transfer (automatic),0,0
+0071-NDAFP,Two year,Credit card (automatic),0,0
+4369-NYSCF,One year,Bank transfer (automatic),0,0
+3841-CONLJ,Month-to-month,Electronic check,0,1
+5159-YFPKQ,Month-to-month,Electronic check,1,1
+5052-PNLOS,Month-to-month,Bank transfer (automatic),1,1
+7399-QHBJS,Two year,Credit card (automatic),0,0
+6834-NXDCA,Month-to-month,Electronic check,1,1
+5198-HQAEN,One year,Electronic check,0,0
+1608-GMEWB,Month-to-month,Bank transfer (automatic),0,1
+1746-TGTWV,Month-to-month,Credit card (automatic),0,1
+6891-JPYFF,Month-to-month,Credit card (automatic),0,0
+8173-RXAYP,Two year,Mailed check,0,0
+4989-LIXVT,Month-to-month,Electronic check,0,0
+9840-DVNDC,Month-to-month,Credit card (automatic),1,1
+2040-XBAVJ,Two year,Bank transfer (automatic),0,0
+6344-SFJVH,Month-to-month,Credit card (automatic),0,0
+9548-LERKT,Two year,Mailed check,0,0
+8709-KRDVL,Month-to-month,Electronic check,0,1
+5976-JCJRH,Month-to-month,Electronic check,1,1
+4829-AUOAX,Month-to-month,Bank transfer (automatic),1,0
+9286-BHDQG,Two year,Credit card (automatic),0,0
+9907-SWKKF,Month-to-month,Mailed check,1,1
+8266-VBFQL,Month-to-month,Electronic check,0,1
+4512-ZUIYL,Month-to-month,Bank transfer (automatic),1,1
+7503-QQRVF,Month-to-month,Credit card (automatic),1,1
+7923-IYJWY,Two year,Credit card (automatic),0,0
+9565-JSNFM,One year,Bank transfer (automatic),1,0
+7359-WWYJV,Two year,Credit card (automatic),0,0
+6497-TILVL,Month-to-month,Mailed check,0,0
+5331-RGMTT,Month-to-month,Credit card (automatic),0,0
+2856-HYAPG,Month-to-month,Electronic check,1,1
+0733-VUNUW,Month-to-month,Bank transfer (automatic),1,0
+8966-KZXXA,Two year,Credit card (automatic),0,0
+0576-WNXXC,Month-to-month,Electronic check,1,1
+7601-GNDYK,Two year,Mailed check,0,0
+5228-EXCET,Month-to-month,Electronic check,1,0
+9048-JVYVF,Month-to-month,Electronic check,1,0
+2129-ALKBS,Month-to-month,Electronic check,0,0
+5240-CAOYT,Month-to-month,Bank transfer (automatic),0,0
+8259-DZLIZ,One year,Bank transfer (automatic),0,0
+9050-QLROH,Month-to-month,Credit card (automatic),1,0
+7037-MTYVW,Two year,Bank transfer (automatic),0,0
+0679-IDSTG,Month-to-month,Electronic check,1,1
+6376-GAHQE,Month-to-month,Electronic check,1,1
+9732-KPKBW,Month-to-month,Electronic check,1,0
+6331-LWDTQ,Month-to-month,Credit card (automatic),1,0
+0829-XXPLX,Month-to-month,Bank transfer (automatic),0,0
+1170-SASML,Month-to-month,Bank transfer (automatic),0,0
+8621-MNIHH,Month-to-month,Electronic check,1,0
+5103-MHMHY,Month-to-month,Mailed check,1,1
+6671-NGWON,Month-to-month,Mailed check,0,0
+1329-VHWNP,Month-to-month,Bank transfer (automatic),0,0
+7579-KKLOE,Two year,Mailed check,0,0
+4049-ZPALD,Two year,Bank transfer (automatic),0,0
+6475-VHUIZ,Month-to-month,Electronic check,0,0
+6000-UKLWI,Two year,Mailed check,0,0
+4589-IUAJB,Two year,Bank transfer (automatic),0,0
+5827-MWCZK,Month-to-month,Credit card (automatic),0,0
+3540-RZJYU,Month-to-month,Electronic check,1,1
+5327-XOKKY,Two year,Credit card (automatic),0,0
+5357-TZHPP,Month-to-month,Credit card (automatic),1,1
+9506-UXUSK,Month-to-month,Electronic check,0,0
+1744-JHKYS,Month-to-month,Electronic check,0,0
+7926-IJOOU,Month-to-month,Credit card (automatic),0,0
+3125-RAHBV,One year,Credit card (automatic),0,0
+5178-LMXOP,Month-to-month,Electronic check,1,1
+1986-PHGZF,Month-to-month,Credit card (automatic),0,0
+8128-YVJRG,Month-to-month,Mailed check,1,0
+8393-JMVMB,Month-to-month,Mailed check,0,0
+9153-BTBVV,Two year,Bank transfer (automatic),0,0
+0719-SYFRB,Month-to-month,Mailed check,1,0
+9674-EHPPG,Two year,Credit card (automatic),0,0
+7056-IMHCC,Month-to-month,Electronic check,1,0
+0379-DJQHR,Two year,Credit card (automatic),0,0
+2105-PHWON,Month-to-month,Credit card (automatic),0,0
+9389-ACWBI,Month-to-month,Credit card (automatic),0,0
+5699-BNCAS,Two year,Mailed check,0,0
+8455-HIRAQ,Month-to-month,Mailed check,0,0
+9233-PSYHO,One year,Bank transfer (automatic),0,0
+8821-KVZKQ,One year,Bank transfer (automatic),0,0
+6668-CNMFP,One year,Bank transfer (automatic),0,0
+3721-CNEYS,Month-to-month,Electronic check,1,1
+6435-SRWBJ,Month-to-month,Electronic check,0,1
+4538-WNTMJ,One year,Mailed check,0,0
+2108-YKQTY,Month-to-month,Credit card (automatic),1,0
+3097-NQYSN,Month-to-month,Mailed check,1,1
+1395-OFUWC,Month-to-month,Credit card (automatic),0,0
+7878-JGDKK,Month-to-month,Mailed check,0,0
+8097-OMULG,One year,Credit card (automatic),0,0
+1066-JKSGK,Month-to-month,Mailed check,1,1
+5975-BAICR,One year,Credit card (automatic),0,0
+5445-GLVOT,Month-to-month,Electronic check,0,1
+8402-EIVQS,One year,Credit card (automatic),0,0
+9572-WUKSB,Month-to-month,Electronic check,0,0
+7629-WIXZF,One year,Electronic check,0,0
+7198-GLXTC,Month-to-month,Electronic check,1,1
+5067-DGXLL,Month-to-month,Mailed check,0,0
+5774-QPLTF,One year,Mailed check,0,0
+3537-RYBHH,Month-to-month,Credit card (automatic),0,0
+4002-BQWPQ,Month-to-month,Bank transfer (automatic),0,0
+2165-VOEGB,One year,Bank transfer (automatic),1,0
+4154-AQUGT,Month-to-month,Bank transfer (automatic),1,1
+5985-BEHZK,One year,Credit card (automatic),0,0
+3450-WXOAT,Month-to-month,Credit card (automatic),0,0
+6060-QBMGV,Two year,Credit card (automatic),0,0
+8696-JKZNU,Month-to-month,Electronic check,1,1
+8429-XIBUM,Month-to-month,Bank transfer (automatic),1,1
+9445-SZLCH,Month-to-month,Bank transfer (automatic),1,0
+0876-WDUUZ,Month-to-month,Credit card (automatic),1,1
+6094-ZIVKX,One year,Credit card (automatic),0,0
+5149-QYTTU,One year,Credit card (automatic),0,0
+1474-JUWSM,One year,Electronic check,0,0
+3318-OSATS,Month-to-month,Electronic check,1,1
+2956-GGUCQ,Month-to-month,Electronic check,1,0
+9753-OYLBX,Month-to-month,Mailed check,0,1
+8701-DGLVH,Two year,Mailed check,0,0
+3211-AAPKX,Month-to-month,Mailed check,0,1
+3400-ESFUW,Two year,Bank transfer (automatic),1,0
+5136-GFPMB,Month-to-month,Credit card (automatic),0,0
+8050-XGRVL,One year,Credit card (automatic),0,0
+0778-NELLA,Month-to-month,Credit card (automatic),1,0
+5322-TEUJK,Two year,Bank transfer (automatic),0,0
+0623-EJQEG,One year,Electronic check,0,0
+6617-WLBQC,One year,Credit card (automatic),0,0
+0824-VWDPO,One year,Bank transfer (automatic),0,0
+3308-DGHKL,Two year,Bank transfer (automatic),0,0
+6557-BZXLQ,Month-to-month,Electronic check,0,0
+9795-SHUHB,Two year,Credit card (automatic),0,0
+5339-PXDVH,Month-to-month,Electronic check,0,1
+7016-NVRIC,One year,Bank transfer (automatic),0,0
+8152-UOBNY,One year,Electronic check,0,0
+9254-RBFON,One year,Bank transfer (automatic),1,0
+6723-CEGQI,Two year,Mailed check,0,0
+4707-MAXGU,Two year,Credit card (automatic),0,0
+6166-ILMNY,Month-to-month,Bank transfer (automatic),1,1
+0040-HALCW,Two year,Credit card (automatic),0,0
+9804-ICWBG,Month-to-month,Electronic check,1,1
+7876-BEUTG,Month-to-month,Mailed check,0,0
+2325-ZUSFD,One year,Bank transfer (automatic),1,0
+0096-BXERS,Month-to-month,Electronic check,0,0
+9086-YJYXS,One year,Bank transfer (automatic),0,0
+2309-OSFEU,Month-to-month,Mailed check,1,0
+7740-BTPUX,Two year,Electronic check,0,0
+7931-PXHFC,One year,Mailed check,1,0
+3694-GLTJM,Month-to-month,Credit card (automatic),0,0
+0230-UBYPQ,One year,Bank transfer (automatic),0,0
+2984-AFWNC,Month-to-month,Electronic check,0,1
+4753-PADAS,One year,Bank transfer (automatic),0,0
+7808-DVWEP,Month-to-month,Bank transfer (automatic),0,0
+2103-ZRXFN,Month-to-month,Mailed check,0,1
+3785-NRHYR,Month-to-month,Mailed check,0,1
+4640-UHDOS,Month-to-month,Electronic check,1,0
+0487-VVUVK,Month-to-month,Mailed check,0,0
+1784-EZDKJ,One year,Bank transfer (automatic),0,0
+3627-FHKBK,Month-to-month,Mailed check,1,1
+8375-KVTHK,One year,Electronic check,0,0
+5583-EJXRD,Two year,Credit card (automatic),0,0
+3030-YDNRM,Month-to-month,Electronic check,0,0
+4342-HENTK,Month-to-month,Electronic check,1,1
+2750-BJLSB,One year,Electronic check,0,0
+7881-EVUAD,Month-to-month,Electronic check,1,1
+6000-APYLU,Month-to-month,Electronic check,1,1
+7711-GQBZC,Two year,Bank transfer (automatic),0,0
+0822-QGCXA,Month-to-month,Electronic check,0,0
+1936-CZAKF,Two year,Credit card (automatic),0,0
+5980-BDHPY,Two year,Bank transfer (automatic),0,0
+7277-OZCGZ,Month-to-month,Electronic check,0,0
+4324-AHJKS,Month-to-month,Credit card (automatic),0,0
+0823-HSCDJ,Month-to-month,Electronic check,1,1
+3556-BVQGL,One year,Mailed check,0,0
+2865-TCHJW,Month-to-month,Electronic check,1,1
+0168-XZKBB,Month-to-month,Electronic check,0,1
+4817-VYYWS,Month-to-month,Electronic check,1,1
+0235-KGSLC,Month-to-month,Credit card (automatic),1,1
+4770-QAZXN,Month-to-month,Credit card (automatic),0,0
+3785-KTYSH,Two year,Mailed check,0,0
+4283-FUTGF,Month-to-month,Electronic check,1,1
+4115-NZRKS,Month-to-month,Electronic check,0,1
+6806-YDEUL,Month-to-month,Bank transfer (automatic),0,0
+4128-ETESU,Month-to-month,Electronic check,0,0
+2085-JVGAD,Month-to-month,Bank transfer (automatic),0,0
+4360-PNRQB,Month-to-month,Bank transfer (automatic),0,0
+4353-HYOJD,Month-to-month,Mailed check,0,0
+3179-GBRWV,Month-to-month,Bank transfer (automatic),0,0
+4818-QIUFN,Month-to-month,Electronic check,1,0
+7504-UWHNB,Month-to-month,Electronic check,0,0
+5553-AOINX,One year,Electronic check,0,0
+3410-MHHUM,One year,Electronic check,0,0
+3192-LNKRK,Month-to-month,Mailed check,0,0
+1097-FSPVW,Month-to-month,Credit card (automatic),0,0
+2483-XSSMZ,One year,Electronic check,0,0
+2732-ISEZX,Month-to-month,Mailed check,0,0
+7975-JMZNT,Two year,Bank transfer (automatic),0,0
+3606-SBKRY,One year,Electronic check,0,0
+1047-RNXZV,Two year,Mailed check,0,0
+5174-ITUMV,One year,Electronic check,0,0
+0080-EMYVY,One year,Credit card (automatic),0,0
+6956-SMUCM,Month-to-month,Credit card (automatic),1,1
+1265-BCFEO,Two year,Bank transfer (automatic),0,0
+3696-XRIEN,One year,Credit card (automatic),0,0
+0853-TWRVK,Two year,Bank transfer (automatic),0,0
+6521-YYTYI,Month-to-month,Electronic check,1,1
+7244-KXYZN,One year,Credit card (automatic),0,0
+4946-EDSEW,Month-to-month,Mailed check,1,0
+1763-WQFUK,Month-to-month,Mailed check,0,0
+2761-OCIAX,Month-to-month,Electronic check,1,1
+2282-YGNOR,One year,Credit card (automatic),0,0
+1862-QRWPE,Two year,Bank transfer (automatic),0,0
+8857-CUPFQ,Two year,Mailed check,0,0
+5630-AHZIL,Month-to-month,Bank transfer (automatic),0,0
+5949-EBSQK,Month-to-month,Credit card (automatic),1,0
+8654-DHAOW,Month-to-month,Mailed check,0,1
+4393-RYCRE,One year,Electronic check,0,0
+9297-EONCV,Two year,Bank transfer (automatic),0,0
+2272-WUSPA,Two year,Electronic check,0,0
+6892-XPFPU,Month-to-month,Electronic check,1,1
+7534-BFESC,Month-to-month,Electronic check,1,0
+5027-YOCXN,One year,Credit card (automatic),0,0
+9470-YFUYI,One year,Bank transfer (automatic),0,0
+6518-KZXCB,Two year,Mailed check,0,0
+8869-TORSS,One year,Credit card (automatic),1,0
+8699-ASUFO,Month-to-month,Mailed check,1,1
+3156-QLHBO,Month-to-month,Mailed check,0,0
+3011-WQKSZ,Month-to-month,Electronic check,0,0
+5533-NHFRF,Month-to-month,Electronic check,0,0
+2101-RANCD,Month-to-month,Electronic check,0,1
+6817-WTYHE,Month-to-month,Bank transfer (automatic),0,1
+2482-CZGBB,Month-to-month,Electronic check,1,0
+3523-QRQLL,One year,Bank transfer (automatic),1,0
+4304-TSPVK,Two year,Bank transfer (automatic),0,0
+9489-UTFKA,Month-to-month,Bank transfer (automatic),0,0
+1459-QNFQT,Two year,Bank transfer (automatic),0,0
+4983-CLMLV,Month-to-month,Credit card (automatic),0,0
+1522-VVDMG,Month-to-month,Electronic check,1,1
+8791-GFXLZ,Month-to-month,Bank transfer (automatic),0,0
+2669-QVCRG,Month-to-month,Credit card (automatic),0,0
+6199-IPCAO,Two year,Mailed check,0,0
+8727-JQFHV,Two year,Mailed check,0,0
+8819-IMISP,Month-to-month,Electronic check,0,1
+0924-BJCRC,Month-to-month,Electronic check,0,0
+7821-DPRQE,Month-to-month,Electronic check,0,0
+0556-FJEGU,Two year,Bank transfer (automatic),0,0
+9878-TNQGW,Month-to-month,Electronic check,1,1
+1766-GKNMI,Month-to-month,Electronic check,0,1
+7422-WNBTY,Month-to-month,Electronic check,0,0
+5915-ANOEI,Two year,Mailed check,0,0
+6651-AZVTJ,Month-to-month,Electronic check,1,1
+2135-DQWAQ,Month-to-month,Mailed check,0,1
+4685-TFLLS,One year,Bank transfer (automatic),0,0
+7766-CLTIC,Month-to-month,Mailed check,0,0
+3761-FLYZI,Month-to-month,Bank transfer (automatic),0,0
+2077-MPJQO,Month-to-month,Electronic check,0,0
+4998-IKFSE,Month-to-month,Electronic check,0,0
+7587-RZNME,Month-to-month,Electronic check,1,1
+4078-SAYYN,Month-to-month,Electronic check,1,1
+8041-TMEID,Two year,Credit card (automatic),0,0
+3055-MJDSB,Month-to-month,Mailed check,0,0
+3018-TFTSU,Month-to-month,Bank transfer (automatic),1,0
+8976-OQHGT,Month-to-month,Mailed check,1,0
+4208-UFFGW,Month-to-month,Mailed check,1,1
+2718-YSKCS,Two year,Bank transfer (automatic),0,0
+5269-NRGDP,One year,Electronic check,0,0
+9138-EFSMO,One year,Bank transfer (automatic),0,0
+1926-QUZNN,Two year,Bank transfer (automatic),0,0
+5701-ZIKJE,Month-to-month,Mailed check,0,0
+2546-KZAAT,One year,Mailed check,0,0
+1469-LBJQJ,Month-to-month,Electronic check,0,1
+5186-SAMNZ,Month-to-month,Bank transfer (automatic),1,1
+6810-VCAEX,One year,Credit card (automatic),0,0
+1534-OULXE,One year,Bank transfer (automatic),0,0
+9470-RTWDV,One year,Credit card (automatic),0,0
+0297-RBCSG,One year,Bank transfer (automatic),0,0
+7029-RPUAV,Month-to-month,Credit card (automatic),1,1
+6519-ZHPXP,Two year,Bank transfer (automatic),0,0
+5091-HFAZW,Month-to-month,Electronic check,0,1
+7609-NRNCA,One year,Mailed check,0,0
+6734-FQAJX,Two year,Electronic check,0,0
+5996-DAOQL,Month-to-month,Mailed check,0,0
+1320-HTRDR,Month-to-month,Electronic check,1,1
+6924-TDGMT,One year,Mailed check,0,0
+9073-ZZIAY,Two year,Electronic check,0,0
+8782-NUUOL,One year,Mailed check,0,0
+2789-CZANW,Two year,Bank transfer (automatic),0,0
+5206-XZZQI,Month-to-month,Mailed check,0,0
+7690-KPNCU,One year,Credit card (automatic),0,0
+5701-SVCWR,Month-to-month,Mailed check,0,0
+3996-ZNWYK,Two year,Credit card (automatic),0,0
+8963-MQVYN,Month-to-month,Electronic check,0,0
+5376-DEQCP,Month-to-month,Electronic check,1,1
+1328-EUZHC,Two year,Mailed check,0,0
+1303-SRDOK,Two year,Credit card (automatic),0,0
+2582-FFFZR,Month-to-month,Electronic check,0,0
+4750-ZRXIU,Month-to-month,Electronic check,1,1
+6732-FZUGP,One year,Credit card (automatic),0,0
+3638-DIMPH,One year,Electronic check,0,0
+9372-TXXPS,Two year,Bank transfer (automatic),0,0
+0750-EBAIU,One year,Electronic check,0,0
+7410-YTJIK,Month-to-month,Mailed check,1,1
+6695-FRVEC,Two year,Bank transfer (automatic),0,0
+8490-BXHEO,Month-to-month,Credit card (automatic),0,0
+9955-QOPOY,One year,Credit card (automatic),0,0
+5313-FPXWG,One year,Bank transfer (automatic),0,0
+0902-RFHOF,One year,Mailed check,0,0
+4646-QZXTF,Month-to-month,Bank transfer (automatic),0,0
+2205-LPVGL,One year,Bank transfer (automatic),0,0
+2043-WVTQJ,Month-to-month,Mailed check,0,0
+3831-YCPUO,Two year,Credit card (automatic),0,0
+8404-VIOMB,Two year,Bank transfer (automatic),0,0
+3319-DWOEP,Month-to-month,Electronic check,1,1
+3594-BDSOA,One year,Credit card (automatic),0,0
+8318-LCNBW,One year,Credit card (automatic),0,0
+4012-ZTHBR,Month-to-month,Electronic check,0,0
+7673-BQGKU,Two year,Bank transfer (automatic),0,0
+8908-SLFCJ,Two year,Credit card (automatic),0,0
+2123-AGEEN,Month-to-month,Electronic check,0,1
+2675-IJRGJ,Two year,Bank transfer (automatic),0,0
+1902-XBTFB,Month-to-month,Electronic check,1,0
+4693-VWVBO,Month-to-month,Electronic check,0,0
+1600-DILPE,Month-to-month,Bank transfer (automatic),0,0
+0128-MKWSG,Month-to-month,Mailed check,0,0
+1179-INLAT,One year,Mailed check,0,0
+3891-NLXJB,Two year,Mailed check,0,0
+8957-THMOA,Two year,Credit card (automatic),0,0
